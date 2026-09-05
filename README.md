@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://youupro.xyz/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://youupro.xyz/"><img src="https://img.shields.io/badge/Website-博客-8c36db" alt="个人博客链接" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Skixkk&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
