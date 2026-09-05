@@ -1,12 +1,14 @@
+<!-- markdownlint-disable MD033 -->
 <!--
  * @Author: Skixkk skixkk7@gmail.com
  * @Date: 2026-08-08 08:23:18
- * @LastEditors: Skixkk skixkk7@gmail.com
- * @LastEditTime: 2026-08-08 08:31:46
+ * @LastEditors: Skixkk <166358870+Skixkk@users.noreply.github.com>
+ * @LastEditTime: 2026-09-06 00:38:45
  * @FilePath: \Skixkk\README.md
  * @Description: bbby
 -->
-## Hi there 👋
+
+# Hey folks! 👋
 
 <!--
 **Skixkk/Skixkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
